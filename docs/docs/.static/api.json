@@ -282,7 +282,8 @@
             "type": "integer",
             "format": "int64",
             "name": "max-depth",
-            "in": "query"
+            "in": "query",
+	    "required": true
           }
         ],
         "responses": {
